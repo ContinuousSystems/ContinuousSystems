@@ -53,6 +53,13 @@ Continuous Systems is committed to building tools, runtimes, and architectures t
 
 ---
 
+## **Supporint Commitments**
+
+- Chopan Foundation
+- American Red Cross
+- World Food Programme
+- Kenya STEM Alliance
+
 ## **Website**
 **github.com/ContinuousSystems**
 
