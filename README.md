@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CS_AMERICA.png" width="420">
+  <img src="CS_AMERICA.png" width="10000">
 </p>
 
 **Continuous Systems exists to build clarity, stability, and continuous improvement into modern software ecosystems.**
