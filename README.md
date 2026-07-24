@@ -15,6 +15,11 @@ We create architectures, runtimes, and cloud‑native designs that grow stronger
 
 ---
 
+## **What We Do**
+
+We design governed AI and backend systems under the BUSL‑1.1 license — built for review, critique, customization, and real‑world implementation. Our work combines documentation‑driven architecture with transparent, analyzable system design, giving teams the clarity and structure they need to build responsibly and at scale.
+
+
 ## **Approach**
 Our work combines open‑source visibility with enterprise‑grade discipline. We are guided by:
 
