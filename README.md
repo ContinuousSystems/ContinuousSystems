@@ -96,3 +96,7 @@ IT Services and IT Consulting
 
 ## **Specialties**  
 Continuous Improvement, Technical Documentation, Software Development, Database Design, Cloud, AI, Backend Services
+
+---
+
+# **In God We Trust.**
