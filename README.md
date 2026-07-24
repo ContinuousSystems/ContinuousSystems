@@ -1,6 +1,9 @@
-# **Continuous Systems — Company Profile** 
+<p align="center">
+  <img src="CS_AMERICA.png" width="420">
+</p>
 
-**Continuous Systems exists to build clarity, stability, and continuous improvement into modern software ecosystems.**  
+**Continuous Systems exists to build clarity, stability, and continuous improvement into modern software ecosystems.**
+
 We design open, reviewable, and rigorously documented systems that evolve with their users — not away from them. Our mission is to deliver architectures that improve every day, scale responsibly, and empower developers, researchers, and enterprises to build with confidence.
 
 ---
