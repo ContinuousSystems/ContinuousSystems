@@ -63,9 +63,6 @@ Continuous Systems is committed to building tools, runtimes, and architectures t
 
 - Kenya STEM Alliance: Inspired STEAM education volunteers on a mission to revolutionize learning globally. With our basis on Science, Technology, Engineering, and Mathematics  sports and Socio-Emotional Learning, we lead on a path to finding solutions to our local and international challenges affecting our people and the global citizens to elevate their STEAM initiatives and help solve their challenges.Through implementation of hands-on experiments and professional development, we are geared towards fostering an inclusive STEAM environment for learning and for professional development for our STEAM educators.Let's collaborate to spark curiosity, invoke creativity, and nurture a future where STEAM education thrives explicitly. 
 
-## **Website**
-**github.com/ContinuousSystems**
-
 ## **LinkedIn Business Page**
 **https://www.linkedin.com/company/continuous-systems**
 
