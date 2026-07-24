@@ -9,7 +9,8 @@ We design open, reviewable, and rigorously documented systems that evolve with t
 ---
 
 ## **Purpose**
-Continuous Systems is founded on a simple belief: **software should improve continuously, not chaotically.**  
+Continuous Systems is founded on a simple belief: **software should improve continuously, not chaotically.** 
+
 We create architectures, runtimes, and cloud‑native designs that grow stronger through iteration, documentation, and transparent engineering.
 
 ---
@@ -26,7 +27,8 @@ Our work combines open‑source visibility with enterprise‑grade discipline. W
 ---
 
 ## **Vision**
-We aim to become a trusted engineering partner for individuals, teams, and enterprises seeking systems that evolve without breaking.  
+We aim to become a trusted engineering partner for individuals, teams, and enterprises seeking systems that evolve without breaking.
+
 Our vision is a world where software is:
 
 - predictable  
