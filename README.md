@@ -2,14 +2,14 @@
   <img src="CS_AMERICA.png" width="10000">
 </p>
 
-**Continuous Systems exists to build clarity, stability, and continuous improvement into modern software ecosystems.**
+**Continuity, Inc. exists to build clarity, stability, and continuous improvement into modern software ecosystems.**
 
 We design open, reviewable, and rigorously documented systems that evolve with their users — not away from them. Our mission is to deliver architectures that improve every day, scale responsibly, and empower developers, researchers, and enterprises to build with confidence.
 
 ---
 
 ## **Purpose**
-Continuous Systems is founded on a simple belief: **software should improve continuously, not chaotically.** 
+Continuity is founded on a simple belief: **software should improve continuously, not chaotically.** 
 
 We create architectures, runtimes, and cloud‑native designs that grow stronger through iteration, documentation, and transparent engineering.
 
@@ -54,7 +54,7 @@ Our vision is a world where software is:
 ---
 
 ## **Commitment to our Clients**
-Continuous Systems is committed to building tools, runtimes, and architectures that help developers ship better software — not just faster, but smarter, safer, and more stable.
+Continuity Incorporated is committed to building tools, runtimes, and architectures that help developers ship better software — not just faster, but smarter, safer, and more stable.
 
 ---
 
