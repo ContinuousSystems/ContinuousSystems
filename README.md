@@ -58,7 +58,7 @@ Continuous Systems is committed to building tools, runtimes, and architectures t
 
 ---
 
-## **Supporint Commitments to Non-Profits**
+## **Supporting Commitments to Non-Profits**
 
 - Chopan Foundation: Chopan Foundation is a faith‑driven nonprofit in Faisalabad, Pakistan, dedicated to supporting underprivileged Christian children and families through education, nourishment, and spiritual care. Since 2021, we’ve run a weekly Sunday School that provides basic learning, biblical teaching, and a warm biryani meal — often the only nutritious food these children receive all week. We also hold monthly outreach programs offering rations, clothing, school supplies, and community support for widows, orphans, and low‑income families. Everything we do is rooted in love, compassion, and service through Yahusha Messiah.
 
