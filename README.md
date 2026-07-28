@@ -80,7 +80,7 @@ https://www.linkedin.com/company/kenya-stem-alliance/
 **https://www.linkedin.com/company/continuous-systems**
 
 ## **E-mail Address**
-**continuoussystems@outlook.com**
+**continuityinc@outlook.com**
 
 ## **Phone**  
 [+1 267‑348‑7177](tel:+12673487177)
