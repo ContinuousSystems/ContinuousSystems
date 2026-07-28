@@ -100,3 +100,7 @@ Continuous Improvement, Technical Documentation, Software Development, Database 
 ---
 
 # **In God We Trust.**
+
+<p align="center">
+  <img src="UNITY.png" width="10000">
+</p>
