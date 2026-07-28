@@ -2,7 +2,7 @@
   <img src="CS_AMERICA.png" width="10000">
 </p>
 
-**Continuity, Inc. exists to build clarity, stability, and continuous improvement into modern software ecosystems.**
+**Continuity exists to build clarity, stability, and continuous improvement into modern software ecosystems.**
 
 We design open, reviewable, and rigorously documented systems that evolve with their users — not away from them. Our mission is to deliver architectures that improve every day, scale responsibly, and empower developers, researchers, and enterprises to build with confidence.
 
@@ -54,7 +54,7 @@ Our vision is a world where software is:
 ---
 
 ## **Commitment to our Clients**
-Continuity Incorporated is committed to building tools, runtimes, and architectures that help developers ship better software — not just faster, but smarter, safer, and more stable.
+Continuity is committed to building tools, runtimes, and architectures that help developers ship better software — not just faster, but smarter, safer, and more stable.
 
 ---
 
