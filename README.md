@@ -104,3 +104,5 @@ Continuous Improvement, Technical Documentation, Software Development, Database 
 <p align="center">
   <img src="UNITY.png" width="10000">
 </p>
+
+> Founder, Founding Team Members, and Advisor's Nation flag. 
